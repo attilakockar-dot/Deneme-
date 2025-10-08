@@ -1,1 +1,2 @@
 print("Prasa");
+print("Ispanak");
